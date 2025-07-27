@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>سایت سبحان</title>
+</head>
+<body>
+  <h1>خوش آمدی!</h1>
+  <p>این اولین سایت ساخته‌شده توسط من با کمک Copilot هست.</p>
+</body>
+</html>
